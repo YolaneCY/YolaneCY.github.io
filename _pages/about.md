@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Southern University of Science and Technology                    Sep. 2022-Jun. 2026(Expected)
-    Major: Biology Science
-    GPA: 3.78/4
-    Rank: 16/54
-    Average Overall Score: 90/100
+Southern University of Science and Technology -------Sep. 2022-Jun. 2026(Expected)  
+    Major: Biology Science  
+    GPA: 3.78/4  
+    Rank: 16/54  
+    Average Overall Score: 90/100  
     Relevant Modules: 
 
 A data-driven personal website
