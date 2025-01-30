@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Southern University of Science and Technology -------Sep. 2022-Jun. 2026(Expected)  
+Southern University of Science and Technology(SUSTech) -------Sep. 2022-Jun. 2026(Expected)  
     Major: Biology Science  
     GPA: 3.79/4  
-    Rank: 14/53
-    Relevant Modules: Python, Biochemistry, Microbiology, Organic Chemistry, Molecular Biology, Animal Physiology, Computational Biology, Cell Biology, Biochemistry and Molecular Biology Laboratory, Genetics Laboratory, Cell Biology Laboratory
+    Rank: 15/53
+    Relevant Modules: : Introduction to Python Programming, Biostatistics, Biochemistry, Microbiology, Organic Chemistry, Molecular Biology, Animal Physiology, Computational Biology, Cell Biology, Biochemistry and Molecular Biology Laboratory, Genetics Laboratory, Cell Biology Laboratory
 
 A data-driven personal website
 ======
